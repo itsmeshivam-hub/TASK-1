@@ -5,6 +5,7 @@ Includes structure,basic styling and a JS alert button. **
 ### Source Code
 Below is the code used in this project:
 
+```html
 
 <!DOCTYPE html>
 <html lang="en">
