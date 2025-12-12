@@ -1,4 +1,11 @@
 # TASK-1
+**First internship task at ApexPlanet - creating a simple webpage using HTML,CSS and JavaScript.
+Includes structure,basic styling and a JS alert button. **
+---
+### Source Code
+Below is the code used in this project:
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
